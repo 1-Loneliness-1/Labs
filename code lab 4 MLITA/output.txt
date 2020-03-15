@@ -1,0 +1,3 @@
+titleoffilm	Sergeev	Sergei	Sergeevich	Russia	2011	1567000	56700000
+Newyear	Petrov	Petr	Petrovich	USA	2017	1567000	5630230
+Adventures	Sidorov	Andrey	Petrovich	Canada	2019	144000	98700300
